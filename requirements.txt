@@ -1,0 +1,8 @@
+# Pinned to wheels that import on this PC. Windows Smart App Control blocks
+# the newest pandas 3.x and scipy 1.18 builds.
+pandas==2.3.3
+numpy==2.5.3
+scipy==1.16.1
+scikit-learn==1.7.2
+joblib==1.6.0
+fastapi==0.141.1

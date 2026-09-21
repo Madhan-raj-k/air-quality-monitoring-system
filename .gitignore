@@ -1,0 +1,5 @@
+.venv/
+.vercel/
+__pycache__/
+*.py[cod]
+backend/aqi_model.joblib
